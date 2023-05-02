@@ -1,0 +1,1 @@
+The 2nd laboratory assignment had us do the same task, as was done in the 1st assigment, though without using the HAL library (except for the Delay function) and without configuring the microcontroller via the STM32CubeMX interface, as everything had to be done at register level.
